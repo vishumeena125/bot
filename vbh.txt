@@ -1,0 +1,6 @@
+{
+
+"ip":Opgamers.aternos.me",
+"port":"45977",
+"name":"bot"
+}
